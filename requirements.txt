@@ -1,0 +1,7 @@
+APScheduler==3.10.1
+fastapi==0.100.1
+Flask==2.3.2
+pydantic==2.1.1
+pywin32==306
+uvicorn==0.23.1
+WMI==1.5.1
